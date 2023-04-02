@@ -1,0 +1,17 @@
+public class Else {
+    public static void main(String[] args){
+        int nums = 6;
+        
+        if (nums >= 10) {
+            System.out.println("greay");
+        } else if (nums >= 7){
+            System.out.println("good");
+    
+        } else if (nums >= 5){
+            System.out.println("ok");
+        }
+
+    }
+
+    
+}
