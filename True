@@ -1,0 +1,14 @@
+class True 
+{
+    public static void main(String[] args){
+        int num1 = 5;
+        int num2 = 4;
+        
+        num1 >= 5 && (num1 + num2) >= 10;
+        num1 >= 5 && (num1 + num2) > 7;
+
+    }
+
+    
+}
+ 
