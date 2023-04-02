@@ -1,0 +1,16 @@
+public class Bad {
+    public static void main(String[] args){
+        int num = 0;
+        if (num >= 10){
+            System.out.println("great");
+        } else if (num >= 7) {
+            System.out.println("good");
+        } else if(num >= 7){
+            System.out.println("ok");
+
+        } else {
+            System.out.println("bad");
+        }
+    }
+    
+}
